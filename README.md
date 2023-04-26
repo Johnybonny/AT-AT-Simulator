@@ -1,7 +1,7 @@
 # AT-AT-Simulator
 OpenGL program that allows you to control the AT-AT vehicle well known from Star Wars franchise. 
 
-This simulator was created as a final project for Computer Graphics and Visualization course by two students of Information Technology on Poznań University of Technology:
+This simulator was created as a final project for Computer Graphics and Visualization course by two students of Information Technology on Poznań University of Technology. All 3D models were created by us.  
 
 Jakub Mrówczyński  
 Szymon Pasternak
